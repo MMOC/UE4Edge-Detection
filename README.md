@@ -4,6 +4,15 @@ Sobel and Laplace Edge Detection Material in UE4(just test in 4.21)
 --------------------------------------------------------------------
 Sobel not use a refinement algorithm and may increase in the later stages.
 
+Sobel  
+![Alt text](https://github.com/MMOC/UE4Edge-Detection/blob/master/Resource/Sobel.png)  
+
+  
+Laplace  
+![Alt text](https://github.com/MMOC/UE4Edge-Detection/blob/master/Resource/Laplace.png)  
+  
+
+--------------------------------------------------------------------
 
 References  
 ——————————————————————————————————————————————————————
